@@ -17,23 +17,28 @@ export function useNats() {
   return nats;
 }
 
-type SuccessCallback = (msg: Msg) => Promise<void>;
-
-export function useNatsSubscription(subj: string, onMessage: SuccessCallback) {
+export function useNatsSubscription(
+  subj: string,
+  onMessage: (msg: Msg) => void,
+  onError: (err: NatsError) => void,
+) {
   const nc = useNats();
+
   useEffect(() => {
     if (!nc) return;
+
     const sub = nc.subscribe(subj, {
       callback: function (err: NatsError | null, msg: Msg) {
         if (err) {
-          console.error(err);
+          onError?.(err);
         } else {
           onMessage(msg);
         }
       },
     });
-    return () => {
-      sub.unsubscribe();
-    };
-  }, [nc]);
+
+    return () => sub.unsubscribe();
+  }, [nc, onError, onMessage, subj]);
+}
+
 }
