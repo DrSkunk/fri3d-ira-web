@@ -1,0 +1,19 @@
+version: "3"
+services:
+  nats:
+    image: nats
+    command: -c /nats-server.conf
+    ports:
+      - 4222:4222
+      - 8222:8222
+      - 8443:8443
+    networks:
+      - nats-net
+    restart: always
+    volumes:
+      - ./nats-server.conf:/nats-server.conf
+      - ./jetstream:/jetstream
+
+networks:
+  nats-net:
+    name: nats
