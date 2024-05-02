@@ -1,0 +1,962 @@
+[
+  {
+    "topic": "area3001.ira.group1.devices.f02d1572.output.3.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.f02d1572.output.3.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.f02d1572.output.3.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.f02d1572.output.3.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.27b7d31c.output.2.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.27b7d31c.output.2.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.27b7d31c.output.2.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.27b7d31c.output.2.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.default.devices.67fd676e.output.3.rgb",
+    "payload": "8#cd89a1 8#1b9db8"
+  },
+  {
+    "topic": "area3001.ira.default.devices.67fd676e.output.3.rgb",
+    "payload": "8#253219 8#de6d39"
+  },
+  {
+    "topic": "area3001.ira.default.devices.67fd676e.output.3.rgb",
+    "payload": "6#9f55b1 6#730492"
+  },
+  {
+    "topic": "area3001.ira.default.devices.67fd676e.output.3.rgb",
+    "payload": "6#8ee0a6 6#df2041"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.ed02f3df.output.8.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.ed02f3df.output.8.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.ed02f3df.output.8.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.ed02f3df.output.8.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.95022052.output.6.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.95022052.output.6.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.95022052.output.6.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.95022052.output.6.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.1d91b6b0.output.4.rgb",
+    "payload": "1#a99d5e 1#478c13"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.1d91b6b0.output.4.rgb",
+    "payload": "1#4b9969 1#ac81c7"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.1d91b6b0.output.4.rgb",
+    "payload": "5#71d2d8 5#a35f55"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.1d91b6b0.output.4.rgb",
+    "payload": "7#821f0f 7#f689ce"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.3fdd74fb.output.8.rgb",
+    "payload": "4#ca7498 4#b529bf"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.3fdd74fb.output.8.rgb",
+    "payload": "6#94cde6 6#517934"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.3fdd74fb.output.8.rgb",
+    "payload": "7#fc15cf 7#49f33c"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.3fdd74fb.output.8.rgb",
+    "payload": "3#5def8f 3#b5f4aa"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.492148c3.output.2.rgb",
+    "payload": "2#374dd3 2#91d4ea"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.492148c3.output.2.rgb",
+    "payload": "2#a8319b 2#88f357"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.492148c3.output.2.rgb",
+    "payload": "3#1b4697 3#e737f0"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.492148c3.output.2.rgb",
+    "payload": "1#75b50e 1#efdf1c"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.b880af45.output.7.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.b880af45.output.7.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.b880af45.output.7.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.b880af45.output.7.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.fbbdb7d8.output.6.rgb",
+    "payload": "5#ef94a1 5#280646"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.fbbdb7d8.output.6.rgb",
+    "payload": "7#bef42b 7#b456ba"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.fbbdb7d8.output.6.rgb",
+    "payload": "2#fd10bb 2#6e6530"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.fbbdb7d8.output.6.rgb",
+    "payload": "1#72d38 1#538718"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.372dd032.output.5.rgb",
+    "payload": "4#6d1a68 4#67c1e8"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.372dd032.output.5.rgb",
+    "payload": "4#6e2ef6 4#76c790"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.372dd032.output.5.rgb",
+    "payload": "2#f04d42 2#73126e"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.372dd032.output.5.rgb",
+    "payload": "7#b70c4d 7#7e39c3"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.5d367aff.output.4.rgb",
+    "payload": "5#16ee77 5#684063"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.5d367aff.output.4.rgb",
+    "payload": "5#74131e 5#9af714"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.5d367aff.output.4.rgb",
+    "payload": "3#8e0e25 3#805030"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.5d367aff.output.4.rgb",
+    "payload": "7#397b24 7#839e5e"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.8e9bf360.output.7.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.8e9bf360.output.7.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.8e9bf360.output.7.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.8e9bf360.output.7.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.fb6dae58.output.2.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.fb6dae58.output.2.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.fb6dae58.output.2.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.fb6dae58.output.2.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.af649d60.output.6.rgb",
+    "payload": "2#4c9586 2#5d2f85"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.af649d60.output.6.rgb",
+    "payload": "6#abe64f 6#4349e6"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.af649d60.output.6.rgb",
+    "payload": "1#9cef45 1#367025"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.af649d60.output.6.rgb",
+    "payload": "2#451aa6 2#e31c02"
+  },
+  {
+    "topic": "area3001.ira.default.devices.69c1307c.output.3.rgb",
+    "payload": "2#924e78 2#bd631b"
+  },
+  {
+    "topic": "area3001.ira.default.devices.69c1307c.output.3.rgb",
+    "payload": "5#bd317a 5#34a464"
+  },
+  {
+    "topic": "area3001.ira.default.devices.69c1307c.output.3.rgb",
+    "payload": "6#5a5ab7 6#227281"
+  },
+  {
+    "topic": "area3001.ira.default.devices.69c1307c.output.3.rgb",
+    "payload": "2#1315d0 2#c846c5"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.91feebab.output.3.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.91feebab.output.3.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.91feebab.output.3.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.91feebab.output.3.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.default.devices.aa4347d9.output.7.rgb",
+    "payload": "5#8131d 5#53c1bf"
+  },
+  {
+    "topic": "area3001.ira.default.devices.aa4347d9.output.7.rgb",
+    "payload": "7#b3609f 7#1559fc"
+  },
+  {
+    "topic": "area3001.ira.default.devices.aa4347d9.output.7.rgb",
+    "payload": "6#e2061f 6#b8b58d"
+  },
+  {
+    "topic": "area3001.ira.default.devices.aa4347d9.output.7.rgb",
+    "payload": "3#a91019 3#6b5d66"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.01870995.output.5.rgb",
+    "payload": "8#5f0051 8#1ada43"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.01870995.output.5.rgb",
+    "payload": "8#5d6f30 8#69d8e1"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.01870995.output.5.rgb",
+    "payload": "6#49b242 6#75f92c"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.01870995.output.5.rgb",
+    "payload": "6#f268ed 6#37b84a"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.e7b9a7c9.output.4.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.e7b9a7c9.output.4.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.e7b9a7c9.output.4.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.e7b9a7c9.output.4.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.59a680a8.output.4.rgb",
+    "payload": "2#af9e1c 2#73ee55"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.59a680a8.output.4.rgb",
+    "payload": "7#a00b1b 7#eeeb0e"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.59a680a8.output.4.rgb",
+    "payload": "2#bb6878 2#7728a9"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.59a680a8.output.4.rgb",
+    "payload": "1#7543a5 1#c69782"
+  },
+  {
+    "topic": "area3001.ira.default.devices.a0c73b3a.output.7.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.default.devices.a0c73b3a.output.7.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.default.devices.a0c73b3a.output.7.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.default.devices.a0c73b3a.output.7.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.20893f5f.output.3.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.20893f5f.output.3.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.20893f5f.output.3.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.20893f5f.output.3.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.bdc65ed4.output.2.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.bdc65ed4.output.2.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.bdc65ed4.output.2.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.bdc65ed4.output.2.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.28c828f4.output.5.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.28c828f4.output.5.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.28c828f4.output.5.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.28c828f4.output.5.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.default.devices.18002f41.output.8.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.default.devices.18002f41.output.8.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.default.devices.18002f41.output.8.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.default.devices.18002f41.output.8.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.83416d83.output.2.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.83416d83.output.2.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.83416d83.output.2.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.83416d83.output.2.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.default.devices.20b02672.output.5.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.default.devices.20b02672.output.5.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.default.devices.20b02672.output.5.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.default.devices.20b02672.output.5.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.default.devices.62b03832.output.1.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.default.devices.62b03832.output.1.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.default.devices.62b03832.output.1.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.default.devices.62b03832.output.1.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.a3a1e7ea.output.1.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.a3a1e7ea.output.1.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.a3a1e7ea.output.1.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.a3a1e7ea.output.1.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.efcbb201.output.6.rgb",
+    "payload": "8#98f531 8#956b8"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.efcbb201.output.6.rgb",
+    "payload": "3#c49692 3#1e7c06"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.efcbb201.output.6.rgb",
+    "payload": "1#de13bc 1#fc93a7"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.efcbb201.output.6.rgb",
+    "payload": "1#38d8e7 1#ebf920"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.8da6b6ef.output.5.rgb",
+    "payload": "7#b077cb 7#d9dbb2"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.8da6b6ef.output.5.rgb",
+    "payload": "6#14576c 6#12756f"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.8da6b6ef.output.5.rgb",
+    "payload": "5#d4ec1f 5#423515"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.8da6b6ef.output.5.rgb",
+    "payload": "5#9de29a 5#ba2406"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.52988c78.output.8.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.52988c78.output.8.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.52988c78.output.8.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.52988c78.output.8.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.780b11d1.output.4.rgb",
+    "payload": "1#8bd5c 1#f76cc8"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.780b11d1.output.4.rgb",
+    "payload": "3#caa2e1 3#f5a3a1"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.780b11d1.output.4.rgb",
+    "payload": "2#34a7bf 2#f72bc7"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.780b11d1.output.4.rgb",
+    "payload": "5#ecfd54 5#98f235"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.7c1486af.output.2.rgb",
+    "payload": "7#da4869 7#1aeded"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.7c1486af.output.2.rgb",
+    "payload": "5#b28edd 5#be8268"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.7c1486af.output.2.rgb",
+    "payload": "5#98813a 5#2ed544"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.7c1486af.output.2.rgb",
+    "payload": "8#7b13a2 8#783583"
+  },
+  {
+    "topic": "area3001.ira.default.devices.fb0b3008.output.4.rgb",
+    "payload": "7#f9ae6f 7#61e694"
+  },
+  {
+    "topic": "area3001.ira.default.devices.fb0b3008.output.4.rgb",
+    "payload": "1#342eec 1#f58800"
+  },
+  {
+    "topic": "area3001.ira.default.devices.fb0b3008.output.4.rgb",
+    "payload": "1#a611cd 1#9177ab"
+  },
+  {
+    "topic": "area3001.ira.default.devices.fb0b3008.output.4.rgb",
+    "payload": "5#b8aae8 5#fa2418"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.5cb90f08.output.4.rgb",
+    "payload": "5#914f2d 5#41706"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.5cb90f08.output.4.rgb",
+    "payload": "7#d08fb1 7#cc1c5e"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.5cb90f08.output.4.rgb",
+    "payload": "6#7e0885 6#2fd19b"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.5cb90f08.output.4.rgb",
+    "payload": "7#f9f4ff 7#35e4a9"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.e8628d11.output.8.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.e8628d11.output.8.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.e8628d11.output.8.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.e8628d11.output.8.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.1480bcc2.output.6.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.1480bcc2.output.6.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.1480bcc2.output.6.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.1480bcc2.output.6.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.b77e932b.output.1.rgb",
+    "payload": "4#fae850 4#f19575"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.b77e932b.output.1.rgb",
+    "payload": "8#f19037 8#7c4c5"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.b77e932b.output.1.rgb",
+    "payload": "4#34ba34 4#a70ff5"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.b77e932b.output.1.rgb",
+    "payload": "2#5363a3 2#8949c5"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.62950d7d.output.4.rgb",
+    "payload": "8#857138 8#5d1fbb"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.62950d7d.output.4.rgb",
+    "payload": "6#48853b 6#925ad6"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.62950d7d.output.4.rgb",
+    "payload": "3#afdeaa 3#2922a5"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.62950d7d.output.4.rgb",
+    "payload": "3#32e156 3#2eee80"
+  },
+  {
+    "topic": "area3001.ira.default.devices.69c4ab1a.output.3.rgb",
+    "payload": "3#5c46dd 3#928648"
+  },
+  {
+    "topic": "area3001.ira.default.devices.69c4ab1a.output.3.rgb",
+    "payload": "8#799e9d 8#6bde67"
+  },
+  {
+    "topic": "area3001.ira.default.devices.69c4ab1a.output.3.rgb",
+    "payload": "6#961169 6#7ddbee"
+  },
+  {
+    "topic": "area3001.ira.default.devices.69c4ab1a.output.3.rgb",
+    "payload": "8#c78aab 8#5e5eee"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.46ad90fc.output.2.rgb",
+    "payload": "4#62ce7d 4#5f8626"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.46ad90fc.output.2.rgb",
+    "payload": "6#4082bf 6#4a4f17"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.46ad90fc.output.2.rgb",
+    "payload": "1#3179e2 1#2295d4"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.46ad90fc.output.2.rgb",
+    "payload": "3#b3b7d1 3#d1d5ad"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.d1c2948f.output.4.rgb",
+    "payload": "1#dcf6fc 1#2c6e25"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.d1c2948f.output.4.rgb",
+    "payload": "6#86f86f 6#b95e90"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.d1c2948f.output.4.rgb",
+    "payload": "4#a8cd3a 4#ac6bca"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.d1c2948f.output.4.rgb",
+    "payload": "3#e43339 3#3d30d8"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.f2c23e9a.output.8.rgb",
+    "payload": "7#15743 7#56f05"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.f2c23e9a.output.8.rgb",
+    "payload": "4#5924da 4#9f10c4"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.f2c23e9a.output.8.rgb",
+    "payload": "7#3eb0b6 7#7f1172"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.f2c23e9a.output.8.rgb",
+    "payload": "3#6a3954 3#d02247"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.5c23774a.output.8.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.5c23774a.output.8.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.5c23774a.output.8.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.5c23774a.output.8.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.3df3ec46.output.4.rgb",
+    "payload": "7#50e7e9 7#c90c31"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.3df3ec46.output.4.rgb",
+    "payload": "1#382dfd 1#3681e7"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.3df3ec46.output.4.rgb",
+    "payload": "3#2c535c 3#7d325f"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.3df3ec46.output.4.rgb",
+    "payload": "8#ddd3c1 8#b45364"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.3cef5d91.output.3.rgb",
+    "payload": "2#5580d0 2#5d2533"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.3cef5d91.output.3.rgb",
+    "payload": "8#6b8be5 8#9b058b"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.3cef5d91.output.3.rgb",
+    "payload": "8#cdda1a 8#f9289c"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.3cef5d91.output.3.rgb",
+    "payload": "6#88745d 6#3ba145"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.48689883.output.6.rgb",
+    "payload": "5#1b0b63 5#c25907"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.48689883.output.6.rgb",
+    "payload": "5#99dc4d 5#aa1e14"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.48689883.output.6.rgb",
+    "payload": "5#8ca1d0 5#af8112"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.48689883.output.6.rgb",
+    "payload": "4#771308 4#e01fb"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.096ffdac.output.4.rgb",
+    "payload": "2#4492d5 2#5b9ef3"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.096ffdac.output.4.rgb",
+    "payload": "1#968169 1#c7a3a3"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.096ffdac.output.4.rgb",
+    "payload": "8#7b7522 8#893c15"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.096ffdac.output.4.rgb",
+    "payload": "3#dbdcc3 3#2ac491"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.16f14e8c.output.1.rgb",
+    "payload": "3#98250 3#632569"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.16f14e8c.output.1.rgb",
+    "payload": "8#d0bb13 8#3bfe25"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.16f14e8c.output.1.rgb",
+    "payload": "4#48ec41 4#1dd06e"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.16f14e8c.output.1.rgb",
+    "payload": "5#4145b5 5#1a787"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.3dfba560.output.1.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.3dfba560.output.1.fx",
+    "payload": "fade"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.3dfba560.output.1.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.group5.devices.3dfba560.output.1.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.2f1988d2.output.5.rgb",
+    "payload": "6#8e685e 6#9f55c8"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.2f1988d2.output.5.rgb",
+    "payload": "6#8079e6 6#157d86"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.2f1988d2.output.5.rgb",
+    "payload": "1#c1e380 1#5dd85c"
+  },
+  {
+    "topic": "area3001.ira.group3.devices.2f1988d2.output.5.rgb",
+    "payload": "8#677351 8#3f1b43"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.63756873.output.4.rgb",
+    "payload": "7#c402b1 7#c3603a"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.63756873.output.4.rgb",
+    "payload": "8#6d96f2 8#1ac38d"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.63756873.output.4.rgb",
+    "payload": "6#34673e 6#3a8513"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.63756873.output.4.rgb",
+    "payload": "7#f74b99 7#315a11"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.50b705b2.output.5.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.50b705b2.output.5.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.50b705b2.output.5.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.group4.devices.50b705b2.output.5.fx",
+    "payload": "rainbow"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.dfa85770.output.6.rgb",
+    "payload": "4#df6714 4#7b25cd"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.dfa85770.output.6.rgb",
+    "payload": "1#c76a46 1#bc1b5c"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.dfa85770.output.6.rgb",
+    "payload": "2#a6c6a3 2#2c97f9"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.dfa85770.output.6.rgb",
+    "payload": "2#de7656 2#28cce1"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.0f4efe5f.output.8.rgb",
+    "payload": "4#22c5e6 4#88ed45"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.0f4efe5f.output.8.rgb",
+    "payload": "2#e54145 2#941e78"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.0f4efe5f.output.8.rgb",
+    "payload": "2#fa4e5 2#2057a3"
+  },
+  {
+    "topic": "area3001.ira.group2.devices.0f4efe5f.output.8.rgb",
+    "payload": "6#916597 6#feb9a6"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.a0552654.output.5.rgb",
+    "payload": "4#20911d 4#40c129"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.a0552654.output.5.rgb",
+    "payload": "3#ce06f8 3#1f952d"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.a0552654.output.5.rgb",
+    "payload": "1#d43e9a 1#b0fd42"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.a0552654.output.5.rgb",
+    "payload": "6#403c0a 6#ec7bbb"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.21b98160.output.2.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.21b98160.output.2.fx",
+    "payload": "solid"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.21b98160.output.2.fx",
+    "payload": "strobe"
+  },
+  {
+    "topic": "area3001.ira.group1.devices.21b98160.output.2.fx",
+    "payload": "off"
+  },
+  {
+    "topic": "area3001.ira.default.devices.4d3358bc.output.6.rgb",
+    "payload": "7#3003cb 7#d0f4d"
+  },
+  {
+    "topic": "area3001.ira.default.devices.4d3358bc.output.6.rgb",
+    "payload": "3#cc7d04 3#4529dd"
+  },
+  {
+    "topic": "area3001.ira.default.devices.4d3358bc.output.6.rgb",
+    "payload": "3#68080e 3#60f150"
+  },
+  {
+    "topic": "area3001.ira.default.devices.4d3358bc.output.6.rgb",
+    "payload": "2#ddb4 2#759012"
+  }
+]
