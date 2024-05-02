@@ -7,14 +7,12 @@ export function useNats() {
   const [nats, setNats] = useState<NatsConnection | null>(null);
 
   useEffect(() => {
-    if (!nats) {
-      natsClientPromise
-        .then((nc) => {
-          setNats(nc);
-        })
-        .catch((err) => console.error("connect failed", err));
-    }
-  }, []);
+    if (nats) return;
+
+    natsClientPromise
+      .then((nc) => setNats(nc))
+      .catch((err) => console.error("connect failed", err));
+  }, [nats]);
 
   return nats;
 }
