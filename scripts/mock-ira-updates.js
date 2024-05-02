@@ -18,3 +18,4 @@ try {
 }
 
 // area3001.ira.default.devices.240ac4471ed0.output.0.rgb '8#ff0000 9#ff00ff'
+// nats publish -s nats://demo.nats.io:4222 area3001.ira.default.devices.240ac4471ed0.output.0.rgb '8#ff0000 9#ff00ff'
